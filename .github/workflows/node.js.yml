@@ -17,5 +17,6 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: 
           npm i
-          echo pwd
+          cd frontend
+          npm i
           
