@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <h1>RNSIT Website for students</h1>
+      <h1>RNSIT </h1>
       <h2>My name is {userName}</h2>
     </>
   );
