@@ -1,4 +1,4 @@
-name: eagleiweb.js CI
+name: Node.js CI
 
 on:
   push:
